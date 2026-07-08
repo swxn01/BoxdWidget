@@ -34,7 +34,7 @@ This extension creates your Discord application and widget automatically.
 
 1. Go to https://discord.com/developers/applications and reload the page once after installing the extension
 2. Click the **Widget Creator** button in the bottom-right corner
-3. Paste the full contents of **`widget-payload.json`** from this repo
+3. Paste the full contents of **`widget-autoconfig.json`** from this repo
 4. Click **Import** — the extension creates the application with the Boxdwidget layout and data fields preconfigured
 5. Complete any captcha / 2FA if prompted
 
