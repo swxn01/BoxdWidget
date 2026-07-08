@@ -1,0 +1,134 @@
+{
+  "_type": "discord-widget",
+  "version": 2,
+  "display_name": "BoxdWidget",
+  "surfaces": {
+    "widget_bottom": {
+      "layout": "widget_bottom_collection",
+      "components": {
+        "item_2": {
+          "fields": {
+            "description": {
+              "value_type": "data",
+              "presentation_type": "text",
+              "value": "movieinfo2"
+            },
+            "image": {
+              "value_type": "data",
+              "presentation_type": "image",
+              "value": "movieposter2"
+            },
+            "name": {
+              "value_type": "data",
+              "presentation_type": "text",
+              "value": "moviename2"
+            }
+          }
+        },
+        "item_3": {
+          "fields": {
+            "description": {
+              "value_type": "data",
+              "presentation_type": "text",
+              "value": "movieinfo3"
+            },
+            "image": {
+              "value_type": "data",
+              "presentation_type": "image",
+              "value": "movieposter3"
+            },
+            "name": {
+              "value_type": "data",
+              "presentation_type": "text",
+              "value": "moviename3"
+            }
+          }
+        },
+        "item_1": {
+          "fields": {
+            "description": {
+              "value_type": "data",
+              "presentation_type": "text",
+              "value": "movieinfo1"
+            },
+            "image": {
+              "value_type": "data",
+              "presentation_type": "image",
+              "value": "movieposter1"
+            },
+            "name": {
+              "value_type": "data",
+              "presentation_type": "text",
+              "value": "moviename1"
+            }
+          }
+        },
+        "item_4": {
+          "fields": {
+            "description": {
+              "value_type": "data",
+              "presentation_type": "text",
+              "value": "movieinfo4"
+            },
+            "image": {
+              "value_type": "data",
+              "presentation_type": "image",
+              "value": "movieposter4"
+            },
+            "name": {
+              "value_type": "data",
+              "presentation_type": "text",
+              "value": "moviename4"
+            }
+          }
+        }
+      }
+    },
+    "add_widget_preview": {
+      "layout": "add_widget_preview_hero",
+      "components": {
+        "hero_image": {
+          "fields": {
+            "image": {
+              "value_type": "data",
+              "presentation_type": "image",
+              "value": "avatar"
+            }
+          }
+        }
+      }
+    },
+    "widget_top": {
+      "layout": "widget_top_hero",
+      "components": {
+        "title": {
+          "fields": {
+            "text": {
+              "value_type": "data",
+              "presentation_type": "text",
+              "value": "username"
+            }
+          }
+        },
+        "subtitle_1": {
+          "fields": {
+            "text": {
+              "value_type": "custom_string",
+              "presentation_type": "text",
+              "value": "favorite movies:"
+            }
+          }
+        },
+        "hero_image": {
+          "fields": {
+            "image": {
+              "value_type": "data",
+              "presentation_type": "image",
+              "value": "avatar"
+            }
+          }
+        }
+      }
+    }
+  }
+}
